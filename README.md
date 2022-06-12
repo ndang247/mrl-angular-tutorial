@@ -1,1 +1,1 @@
-# mrl-angular-tutorial
+# MRL-Angular-Tutorial
